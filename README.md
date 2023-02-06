@@ -7,3 +7,6 @@ The article offers predictions for the future of software development in 2023. W
 
 # Alicia Hwang's Comment
 Having no-code platforms as a bridge between less experienced developers to more experienced ones are interesting, I see where might have the thought came from But at the same time it makes me worried that AI based code generation and/or code-less developing tools *are* itself a high tech solutions made by experienced developers... perhaps those platforms could create more barriers instead of reducing the gap?
+
+# Edits by Abhi Vachani
+Interesting Article! I think its cool how software engineers are moving further away from the actual "engineering" thing, but instead are going to focus on the overall project more. That sounds like it will defintely increase efficiency. 
