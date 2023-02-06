@@ -7,3 +7,6 @@ The article offers predictions for the future of software development in 2023. W
 
 # Edits by Abhi Vachani
 Interesting Article! I think its cool how software engineers are moving further away from the actual "engineering" thing, but instead are going to focus on the overall project more. That sounds like it will defintely increase efficiency. 
+
+# Edits by Alice Long
+I also find the idea of having "no code less code"platform intereseting. And I read a similar idea from an article, which talks about the implementation of new front-end framework Qwik"https://javascript.plainenglish.io/react-and-next-js-is-dead-something-new-is-finally-replacing-it-for-good-c792c48806f6"
