@@ -5,5 +5,8 @@
 # What I found interesting about the article?
 The article offers predictions for the future of software development in 2023. What I found particularly interesting about this article is the prediction of the upcoming trend for low-code and no-code platforms. Open job positions regarding software development often demand extensive coding skills which can set a high technical barrier for less experienced developers and thus create a gap between demand and supply for software developers. These emerging low-code and no-code platforms could be the solution to this demand-supply imbalance since they reduce the need for specialized programming knowledge. Even for experienced programmers, having AI-assisted platforms that could auto-fill in basic lines of code will help them focus more on the grand structure of the whole project and increase working efficiency for the whole team.  
 
+# Alicia Hwang's Comment
+Having no-code platforms as a bridge between less experienced developers to more experienced ones are interesting, I see where might have the thought came from But at the same time it makes me worried that AI based code generation and/or code-less developing tools *are* itself a high tech solutions made by experienced developers... perhaps those platforms could create more barriers instead of reducing the gap?
+
 # Edits by Abhi Vachani
 Interesting Article! I think its cool how software engineers are moving further away from the actual "engineering" thing, but instead are going to focus on the overall project more. That sounds like it will defintely increase efficiency. 
